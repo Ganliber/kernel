@@ -3,6 +3,13 @@
 >
 > [Linux Kernel Official Document](https://www.kernel.org/doc/html/latest/)
 
+## Version
+
+> Folder 'linux kernel version' saves some old versions of linux  kernel.
+
+- [x] linux-0.11
+- [x] linux-0.12
+
 ## Guide
 
 * `Dr.Mu` : 我的建议是你们分析内核里面某些机制的实现方法。`KMEMLEAK`，`KConfig`和`KBuild`，`KCOV`你们几个可以选择
