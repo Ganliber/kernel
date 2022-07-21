@@ -42,3 +42,10 @@
   * `KBuild` : 递归make 的一个很好的例子。 通过将源文件划分为不同的模块/组件，每个组件都由其自己的makefile 管理。 当你开始构建时，顶级makefile 以正确的顺序调用每个组件的makefile、构建组件，并将它们收集到最终的执行程序中。
 
   * `KCOV` : Kcov是一个代码覆盖测试工具，最初基于Bcov，它可在FreeBSD、Linux、OSX系统中使用，支持的语言包括编译语言(compiled languages)、Python和Bash。 与Bcov一样，Kcov对编译的程序使用DWARF调试信息，以便无需特殊编译器开关即可收集覆盖信息。
+
+
+
+## Addition
+
+* kernel pwn
+* 
